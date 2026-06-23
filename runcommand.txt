@@ -1,0 +1,3 @@
+python init_db.py
+python -c "from train_model import train_model; train_model()"
+uvicorn main:app --host 127.0.0.1 --port 8000 --reload

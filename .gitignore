@@ -208,8 +208,7 @@ cython_debug/
 # Python cache
 __pycache__/
 
-# Local files
-runcommand.txt
+
 
 # Excel attendance data
 attendance.xlsx
